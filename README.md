@@ -26,5 +26,5 @@ Traffic signs classification is the process of identifying which class a traffic
 <br>
 
 ## Authors
-Cheng Qian, Emely Xu, Jiaheng Zhang, Jinyi Tao
-University at Buffalo
+Cheng Qian, Emely Xu, Jiaheng Zhang, Jinyi Tao, 
+From University at Buffalo
