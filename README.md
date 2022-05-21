@@ -16,6 +16,7 @@ Traffic signs classification is the process of identifying which class a traffic
 6. For running on live camera feed 
     * **Type** - `python detect.py --source 0`
 7. Outputs are saved in *Results folder*
+8. Complete Directory can be found in *https://drive.google.com/drive/folders/1D0WNtk0LW263fQnfDIaxG-xttDU4NGHb?usp=sharing*
 
 ## Authors
 Cheng Qian, Emely Xu, Jiaheng Zhang, Jinyi Tao
