@@ -18,6 +18,12 @@ Traffic signs classification is the process of identifying which class a traffic
 7. Outputs are saved in *Results folder*
 8. Complete Directory can be found in *https://drive.google.com/drive/folders/1D0WNtk0LW263fQnfDIaxG-xttDU4NGHb?usp=sharing*
 
+## Results
+![Result](https://github.com/estella2012/CSE676_traffic_sign_detection/blob/main/video%20_sample2.png)
+<br>
+<br>
+<br>
+
 ## Authors
 Cheng Qian, Emely Xu, Jiaheng Zhang, Jinyi Tao
 University at Buffalo
